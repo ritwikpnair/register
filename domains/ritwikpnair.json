@@ -1,0 +1,11 @@
+{
+    "description": "ritwikpnair's website and blog",
+    "repo": "https://github.com/ritwikpnair/ritwikpnair.github.io",
+    "owner": {
+        "username": "ritwikpnair",
+        "email": "ritwikpnair@proton.me"
+    },
+    "record": {
+        "CNAME": "ritwikpnair.github.io"
+    }
+}
